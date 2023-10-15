@@ -1,0 +1,9 @@
+# requirement to run server using ts or js using nodejs and mongodb or postgreSQL
+expressjs
+cors
+nodemon
+jwt
+bcrypt
+
+pg
+mongoose
